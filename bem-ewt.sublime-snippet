@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+{
+    elem : '$1',
+    tag : '$2',
+    content : [
+        $0
+    ]
+}
+]]></content>
+    <tabTrigger>ewt</tabTrigger>
+    <description>BEM elem with tag mod</description>
+    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+</snippet>

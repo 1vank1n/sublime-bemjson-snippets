@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+content : [
+    $1
+]
+]]></content>
+    <tabTrigger>c</tabTrigger>
+    <description>BEM content mod</description>
+    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+</snippet>

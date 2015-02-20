@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{
+    block : '${1:name}',
+    content : '$0'
+}
+]]></content>
+    <tabTrigger>btc</tabTrigger>
+    <description>BEM block with text content</description>
+    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+</snippet>

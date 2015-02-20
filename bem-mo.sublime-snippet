@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+mods : { $1 : '$2' },
+]]></content>
+    <tabTrigger>mo</tabTrigger>
+    <description>BEM mods mod</description>
+    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+</snippet>

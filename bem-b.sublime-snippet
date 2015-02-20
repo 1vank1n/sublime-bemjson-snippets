@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+{
+    block : '${1:name}',
+    content : [
+        $0
+    ]
+}
+]]></content>
+    <tabTrigger>b</tabTrigger>
+    <description>BEM block</description>
+    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+</snippet>

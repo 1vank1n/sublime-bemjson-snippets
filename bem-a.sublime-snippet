@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+attrs : { $1 : '$2' },
+]]></content>
+    <tabTrigger>a</tabTrigger>
+    <description>BEM attrs mod</description>
+    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+</snippet>
