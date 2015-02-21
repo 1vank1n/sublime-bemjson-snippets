@@ -70,7 +70,7 @@ Write BEMSJON faster.
     }
 
 
-*ewt** - BEM elem with tag mod
+**ewt** - BEM elem with tag mod
 
     {
         elem : '$1',
