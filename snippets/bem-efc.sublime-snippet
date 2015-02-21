@@ -2,10 +2,12 @@
     <content><![CDATA[
 {
     elem : '$1',
-    content : '$0'
+    content : (function () {
+        return $0;
+    })()
 }
 ]]></content>
     <tabTrigger>etc</tabTrigger>
-    <description>BEM elem with text content</description>
+    <description>BEM elem with function content</description>
     <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
 </snippet>
