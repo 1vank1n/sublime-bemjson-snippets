@@ -2,6 +2,8 @@
 
 Write BEMSJON faster.
 
+![gif](http://i59.tinypic.com/2cn9xe0.gif)
+
 ## Install
 
 **var1.** Use `Package Control` -> `BEMJSON snippets`
