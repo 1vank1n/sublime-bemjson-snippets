@@ -6,7 +6,7 @@ Write BEMSJON faster.
 
 ## Install
 
-**var1.** Copy the files in sublime-directory\Data\Packages\User
+Copy the files in sublime-directory\Data\Packages\User
 
 
 ## Usage
