@@ -10,6 +10,10 @@ Write BEMSJON faster.
 
 **var2.** Download, unzip, put to  `~Library\Application Support\Sublime Text 3`
 
+## Alternative
+
+Версия где у сниппетов табы заменены на пробелы в ветке [tabs-spacer](https://github.com/1vank1n/sublime-bemjson-snippets/tree/tabs-spacer). Спасибо [@campykid](https://github.com/campykid)
+
 ## Usage
 
 ### Blocks <a name="blocks"></a>
