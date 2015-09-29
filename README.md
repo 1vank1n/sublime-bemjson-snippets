@@ -6,9 +6,8 @@ Write BEMSJON faster.
 
 ## Install
 
-**var1.** Use `Package Control` -> `BEMJSON snippets`
+**var1.** Copy the files in sublime-directory\Data\Packages\User
 
-**var2.** Download, unzip, put to  `~Library\Application Support\Sublime Text 3`
 
 ## Usage
 
