@@ -1,14 +1,14 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 {
-    block : '$1',
-    tag : '$2',
-    content : [
-        $0
-    ]
+	block : '$1',
+	tag : '$2',
+	content : [
+		$0
+	]
 }
 ]]></content>
-    <tabTrigger>bwt</tabTrigger>
-    <description>BEM block with tag mod</description>
-    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+	<tabTrigger>bwt</tabTrigger>
+	<description>BEM block with tag mod</description>
+	<scope>source.javascript, source.js, source.bemhtml, source.json</scope>
 </snippet>
