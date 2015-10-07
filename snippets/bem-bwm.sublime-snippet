@@ -2,12 +2,13 @@
 	<content><![CDATA[
 {
 	block : '${1:name}',
+	mods: { ${2:modName}: '${3:modVal}' }
 	content : [
 		$0
 	]
 }
 ]]></content>
-	<tabTrigger>b</tabTrigger>
-	<description>BEM block</description>
+	<tabTrigger>bwm</tabTrigger>
+	<description>BEM block with modifier</description>
 	<scope>source.javascript, source.js, source.bemhtml, source.json</scope>
 </snippet>

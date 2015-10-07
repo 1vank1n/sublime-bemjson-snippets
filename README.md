@@ -6,9 +6,8 @@ Write BEMSJON faster.
 
 ## Install
 
-**var1.** Use `Package Control` -> `BEMJSON snippets`
+Copy the files in sublime-directory\Data\Packages\User
 
-**var2.** Download, unzip, put to  `~Library\Application Support\Sublime Text 3`
 
 ## Alternative
 
@@ -34,6 +33,15 @@ Write BEMSJON faster.
         content : '$0'
     }
 
+**bwm** - BEM block with modifier.
+
+    {
+    	block : '${1:name}',
+    	mods: { ${2:modName}: '${3:modVal}' }
+    	content : [
+    		$0
+    	]
+    }
 
 **bwt** - BEM block with tag mod
 

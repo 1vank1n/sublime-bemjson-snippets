@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 mix : [ { $1 : '$2' } ],
 ]]></content>
-    <tabTrigger>mi</tabTrigger>
-    <description>BEM mix mod</description>
-    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+	<tabTrigger>mi</tabTrigger>
+	<description>BEM mix mod</description>
+	<scope>source.javascript, source.js, source.bemhtml, source.json</scope>
 </snippet>

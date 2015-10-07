@@ -1,13 +1,13 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 {
-    elem : '$1',
-    content : (function () {
-        return $0;
-    })()
+	elem : '$1',
+	content : (function () {
+		return $0;
+	})()
 }
 ]]></content>
-    <tabTrigger>etc</tabTrigger>
-    <description>BEM elem with function content</description>
-    <scope>source.javascript, source.js, source.bemhtml, source.json</scope>
+	<tabTrigger>etc</tabTrigger>
+	<description>BEM elem with function content</description>
+	<scope>source.javascript, source.js, source.bemhtml, source.json</scope>
 </snippet>
