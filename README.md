@@ -33,7 +33,7 @@ Copy the files in sublime-directory\Data\Packages\User
 
     {
     	block : '${1:name}',
-    	mods: { ${2:modName}: '${3:modVal}' }
+    	mods: { ${2:modName}: '${3:modVal}' },
     	content : [
     		$0
     	]
