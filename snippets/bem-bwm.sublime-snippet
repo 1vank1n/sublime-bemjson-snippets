@@ -2,7 +2,7 @@
 	<content><![CDATA[
 {
 	block : '${1:name}',
-	mods: { ${2:modName}: '${3:modVal}' }
+	mods: { ${2:modName}: '${3:modVal}' },
 	content : [
 		$0
 	]
