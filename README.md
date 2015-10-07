@@ -8,11 +8,6 @@ Write BEMSJON faster.
 
 Copy the files in sublime-directory\Data\Packages\User
 
-
-## Alternative
-
-Версия где у сниппетов табы заменены на пробелы в ветке [tabs-spacer](https://github.com/1vank1n/sublime-bemjson-snippets/tree/tabs-spacer). Спасибо [@campykid](https://github.com/campykid)
-
 ## Usage
 
 ### Blocks <a name="blocks"></a>
@@ -128,7 +123,12 @@ Copy the files in sublime-directory\Data\Packages\User
 
     attrs : { $1 : '$2' },
 
-### Links
+## Links
 
 For ATOM users = [atom-bemjson-snippets](https://github.com/verybigman/atom-bemjson-snippets)
+
+## Contributors
+
+[@1vank1n](https://github.com/1vank1n)
+[@campykid](https://github.com/campykid)
 
