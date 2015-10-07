@@ -29,6 +29,15 @@ Copy the files in sublime-directory\Data\Packages\User
         content : '$0'
     }
 
+**bwm** - BEM block with modifier.
+
+    {
+    	block : '${1:name}',
+    	mods: { ${2:modName}: '${3:modVal}' }
+    	content : [
+    		$0
+    	]
+    }
 
 **bwt** - BEM block with tag mod
 
