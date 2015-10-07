@@ -29,7 +29,7 @@ Copy the files in sublime-directory\Data\Packages\User
         content : '$0'
     }
 
-**bwe** - BEM block with modifier.
+**bwm** - BEM block with modifier.
 
     {
     	block : '${1:name}',
