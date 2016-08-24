@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+([
+	{
+		block: 'b-page',
+		mods: {theme: 'normal'},
+		title: '${1:title}',
+		head: [
+			{elem: 'css', url: '${TM_FILENAME/^(\w)|(?:\.(\w*))/(?1$1:)/g}.css'},
+		],
+		content: [
+			{
+				block : '${TM_FILENAME/^(\w)|(?:\.(\w*))/(?1$1:)/g}',
+				content : [
+					${2:}
+				]
+			}
+		]
+	}
+]);
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bundle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
