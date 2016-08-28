@@ -98,7 +98,7 @@ Copy the files in sublime-directory\Data\Packages\User
     }
 
 **bundle** - Template for bemjson file.
-
+```
 ([
     {
         block: 'b-page',
@@ -117,7 +117,7 @@ Copy the files in sublime-directory\Data\Packages\User
         ]
     }
 ]);
-
+```
 
 ### Mods
 **t** - BEM tag mod
